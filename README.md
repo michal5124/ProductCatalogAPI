@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# ProductCatalogAPI
 
 A .NET 8 Web API demonstrating in-memory caching with:
@@ -129,3 +130,6 @@ dbug: Loading product id 1 from repository                     <- exactly once
 dbug: Gate released for product id 1
 dbug: Cache HIT on re-check for product id 1 - stampede prevented  <- all others
 ```
+=======
+# ProductCatalogAPI
+>>>>>>> 16b6a9efbfe9dbbb524ba6ec881e9034d1add960
