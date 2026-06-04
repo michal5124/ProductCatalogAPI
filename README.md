@@ -1,3 +1,4 @@
+## ProductCatalogAPI
 
 A .NET 8 Web API demonstrating in-memory caching with:
 
